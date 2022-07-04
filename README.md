@@ -16,3 +16,6 @@ Manipradeep Marichamy 's Profile Status :  <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmanipradeep&show_icons=true&theme=radical)](https://github.com/mmanipradeep/github-readme-stats)
 </br>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmanipradeep&layout=compact)](https://github.com/mmanipradeep/github-readme-stats)
+
