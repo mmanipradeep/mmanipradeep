@@ -12,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him/his 
 - ⚡ Fun fact: I am a great foodie. Like to travel around the places to have different receipes
 
+Manipradeep Marichamy 's Profile Status :  <br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmanipradeep&show_icons=true&theme=radical)](https://github.com/mmanipradeep/github-readme-stats)
+</br>
+
