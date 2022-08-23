@@ -31,7 +31,7 @@
 
   </br>
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%mmanipradeep&count_bg=%23B8A7EA&title_bg=%239BAEF3&icon=&icon_color=%23E7E7E7&title=%F0%9F%8C%8D&edge_flat=false)](https://github.com/JeongSeonggil)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%mmanipradeep&count_bg=%23B8A7EA&title_bg=%239BAEF3&icon=&icon_color=%23E7E7E7&title=%F0%9F%8C%8D&edge_flat=false)](https://github.com/mmanipradeep)
 
   [![Manipradeep's trophy](https://github-profile-trophy.vercel.app/?username=mmanipradeep&row=1)](https://github.com/ryo-ma/github-profile-trophy)
   
